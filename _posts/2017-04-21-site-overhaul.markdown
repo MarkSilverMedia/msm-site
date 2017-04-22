@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to (newest rendition of) the website!"
+title:  "Welcome to (the newest rendition of) the website!"
 date:   2017-04-21 22:36:49 -0500
 categories: misc dev html
 ---
