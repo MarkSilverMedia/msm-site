@@ -9,8 +9,11 @@ permalink: /music/
 I've been releasing music that I write/record/produce/ &amp; whatnot since October of 2012, and to this day, my solo work remains my primary focus. It'd be really hard for me to categorize it under any particular genre on account of the fact that I'm quite often trying something new. What follows is a selection of links to different bandcamp pages where I've released my solo work:
 
 [Current/Main Discography](https://marksilver.bandcamp.com/)
+
 [Live Performances](https://marklive.bandcamp.com/)
+
 [Extra/Bonus Content and Alternative Pseudonyms](https://silveralt.bandcamp.com/)
+
 [Older/Legacy/Archive Discography](https://silvermediaproductions.bandcamp.com/)
 
 Be on the look out for my eponymous album, which will be released on the 22nd of August 2017. ;)
