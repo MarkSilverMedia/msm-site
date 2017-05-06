@@ -7,8 +7,6 @@ categories: misc dev markdown
 
 lemme try something real quick 'ere:
 
-~~~html
 <audio src="http://assets.marksilvermedia.tk/music/emawm/whoneedsmagicanyways.mp3" controls></audio>
-~~~
 
 That should be audio, mm k?
