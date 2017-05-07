@@ -5,7 +5,7 @@ date:   2017-05-07 00:00:00 -0500
 categories: music emawm
 ---
 
-<iframe src="https://vid.me/e/o9YI" width="384" height="216" frameborder="0" allowfullscreen webkitallowfullscreen mozallowfullscreen scrolling="no"></iframe>
+<video src="https://ia601509.us.archive.org/21/items/el4117/el4117.mp4" width="384" height="216" controls></video>
 
 On the first of April this year, something magical happened. But alas! It was NOT an April Fools Prank! Silly rabbit, Trix are for kids!
 
